@@ -65,7 +65,7 @@
       hyprwayland-scanner.follows = "hyprwayland-scanner";
     };
 
-    hyprland-protocols.url = "github:hyprwm/hyprland-protocols/v0.7.0";
+    hyprland-protocols.url = "github:hyprwm/hyprland-protocols/v0.7.1";
     hyprland-protocols.inputs = {
       nixpkgs.follows = "nixpkgs";
       systems.follows = "systems";
